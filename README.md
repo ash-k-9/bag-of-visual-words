@@ -66,7 +66,7 @@ SVM Classifier:
 
 Random Forest Classifier:
 
-![Objects-Confusion-RFC](https://user-images.githubusercontent.com/127419841/224569059-b2a6f78c-fe31-4076-8d39-b46cf92b98d4.png)
+![Objects-Confusion-RFC](https://user-images.githubusercontent.com/127419841/224577605-05fcbff4-ff1f-4e52-87f5-d15d04f190b1.png)
 
 **Flower Dataset**
 
