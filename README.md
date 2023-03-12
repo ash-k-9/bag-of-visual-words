@@ -81,8 +81,8 @@ Random Forest Classifier:
 
 SVM Classifier:
 
-![Objects-Confusion-SVM](https://user-images.githubusercontent.com/127419841/224569658-27030fe8-d00f-499f-bed5-14eca109a266.png)
+![Flowers-Confusion-SVM](https://user-images.githubusercontent.com/127419841/224570148-ef154175-9434-4de3-8eed-2395e16294ab.png)
 
 Random Forest Classifier:
 
-![Objects-Confusion-RFC](https://user-images.githubusercontent.com/127419841/224569059-b2a6f78c-fe31-4076-8d39-b46cf92b98d4.png)
+![Flowers-Confusion-RFC](https://user-images.githubusercontent.com/127419841/224570173-10999e54-7bc4-4c95-9e4a-076b4e8a06da.png)
