@@ -49,5 +49,40 @@ Flower Dataset
 4. False Positive: [75 54 74 60 82]
 
 ## Visual Results
+**Objects Dataset**
+
+###### Image and keypoints in the image
+
 ![Objects-Keypoints-Image](https://user-images.githubusercontent.com/127419841/224568746-7be902f5-dfe4-4be3-981c-a3b43b7c54ed.png)
 
+###### Vocabulary
+![Objects-Vocabulary](https://user-images.githubusercontent.com/127419841/224569691-6310dcab-0ae2-4dba-9efc-643d61b4ae6d.png)
+
+###### Confusion Matrix 
+
+SVM Classifier:
+
+![Objects-Confusion-SVM](https://user-images.githubusercontent.com/127419841/224569658-27030fe8-d00f-499f-bed5-14eca109a266.png)
+
+Random Forest Classifier:
+
+![Objects-Confusion-RFC](https://user-images.githubusercontent.com/127419841/224569059-b2a6f78c-fe31-4076-8d39-b46cf92b98d4.png)
+
+**Flower Dataset**
+
+###### Image and keypoints in the image
+
+![Flowers-Keypoints-Image](https://user-images.githubusercontent.com/127419841/224569754-77f27d3d-f1ea-4afd-a405-585507750f3c.png)
+
+###### Vocabulary
+![Flowers-Vocabulary](https://user-images.githubusercontent.com/127419841/224569005-7eacf73a-c3ec-4281-a712-124d17e4858a.png)
+
+###### Confusion Matrix 
+
+SVM Classifier:
+
+![Objects-Confusion-SVM](https://user-images.githubusercontent.com/127419841/224569658-27030fe8-d00f-499f-bed5-14eca109a266.png)
+
+Random Forest Classifier:
+
+![Objects-Confusion-RFC](https://user-images.githubusercontent.com/127419841/224569059-b2a6f78c-fe31-4076-8d39-b46cf92b98d4.png)
