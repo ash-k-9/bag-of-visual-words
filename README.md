@@ -21,14 +21,14 @@ In order to run download the code and open the notebook in google colabs
 Object Dataset
 
 1. Accuracy: 75%
-2. F1 Score: 0.74
-3. True Positive: [5 6 6 5]
-4. False Positive: [1 1 0 0]
+2. F1 Score: 0.75
+3. True Positive: [4 6 6 6]
+4. False Positive: [0 1 0 1]
 
 Flower Dataset
 
 1. Accuracy: 56.81%
-2. F1 Score: 0.57
+2. F1 Score: 0.57 (average = none -> [0.66666667 0.66666667 1.         0.66666667])
 3. True Positive: [572 457 547 549 494]
 4. False Positive: [82 44 62 54 75]
 
@@ -36,10 +36,10 @@ Flower Dataset
 
 Object Dataset
 
-1. Accuracy: 75%
-2. F1 Score: 0.75
-3. True Positive: [4 6 6 6]
-4. False Positive: [0 1 0 1]
+1. Accuracy: 87.50%
+2. F1 Score: 0.87 (average = none -> [0.8        1.         1.         0.66666667])
+3. True Positive: [5 6 6 6]
+4. False Positive: [0 0 0 1]
 
 Flower Dataset
 
@@ -62,7 +62,7 @@ Flower Dataset
 
 SVM Classifier:
 
-![Objects-Confusion-SVM](https://user-images.githubusercontent.com/127419841/224569658-27030fe8-d00f-499f-bed5-14eca109a266.png)
+![Objects-Confusion-SVM](https://user-images.githubusercontent.com/127419841/224577708-9d7259c6-c75f-4a10-9bae-6e5444ea8d48.png)
 
 Random Forest Classifier:
 
